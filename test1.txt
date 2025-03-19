@@ -1,6 +1,13 @@
+<<<<<<< Updated upstream
 ##Error fixing####
 done
 ---------------------
+=======
+Feature 1
+//Some login code with OTP
+//75%
+
+>>>>>>> Stashed changes
 Ooty
 Bengaluru
 Hii
